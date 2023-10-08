@@ -38,7 +38,7 @@ router.get("/:email", (req, res) => {
 // POST request: Add a new friend
 router.post("/", (req, res) => {
   // Update the code here
-  res.send("Yet to be implemented"); //This line is to be replaced with actual return value
+  res.send("Yet to be implementede"); //This line is to be replaced with actual return value
 });
 
 // PUT request: Update the details of a friend with email id
